@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+local-validation.json
+*.ap18
+*.zap18
